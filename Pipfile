@@ -6,6 +6,10 @@ name = "pypi"
 [packages]
 selenium = "*"
 webdriver-manager = "*"
+behave = "*"
+pyhamcrest = "*"
+invoke = "*"
+allure-behave = "*"
 
 [dev-packages]
 
